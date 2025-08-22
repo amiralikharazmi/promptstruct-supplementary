@@ -26,7 +26,7 @@ Criteria:
 11. EngagementAndReadability
 
 Output format (valid JSON):
-
+```
 {{
 		"GeneralStatementOfTheResearchArea": {{
 				"type": "Required",
