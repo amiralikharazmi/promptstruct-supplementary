@@ -36,7 +36,7 @@ CRITERIA TO EVALUATE ({section_2_type.replace(' ', '')}Evaluation):
 
 --------------------------------------------------------------------------------
 REQUIRED OUTPUT (valid JSON):
-
+```
 {{
 		"ScopeAndFocusOf{section_2_type.replace(' ', '')}": {{
 				"type": "Required",
