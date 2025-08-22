@@ -7,7 +7,7 @@ This repository contains all supplementary prompt templates used in the PromptSt
 ## Contents
 
 - `prompts/introduction/`: Prompt templates used for rewriting Introduction sections, categorized by quality class (0–3).
-- `prompts/literature_review/`: Prompt templates for Literature Review/Related Work sections, also categorized by quality class.
+- `prompts/literature_review_or_related_work/`: Prompt templates for Literature Review/Related Work sections, also categorized by quality class.
 - `prompts/shared_components/`: Shared prompts used across all sections, such as author style extraction.
 
 All prompts are designed to operate on scientific sections using structured evaluation, rhetorical analysis, and modular rewriting logic.
